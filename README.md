@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk mengidentifikasi senyawa kandidat obat yang berpotens
 - *Algoritma KNN*: Digunakan untuk mengklasifikasikan senyawa sebagai aktif atau tidak aktif berdasarkan karakteristik kimianya.
 - *Preprocessing Data*: Termasuk normalisasi, imputasi data, dan pembagian dataset menjadi data latih dan data uji.
 - *Oversampling dengan SMOTE*: Mengatasi ketidakseimbangan kelas dalam dataset untuk meningkatkan sensitivitas model terhadap kelas minoritas (senyawa aktif).
-- *Optimasi Parameter: Tuning parameter k, metrik jarak (*Euclidean dan Manhattan), dan pembobotan jarak untuk meningkatkan akurasi prediksi.
+- *Optimasi Parameter*: Tuning parameter k, metrik jarak (*Euclidean dan Manhattan), dan pembobotan jarak untuk meningkatkan akurasi prediksi.
 - *Evaluasi Model*: Meliputi akurasi, precision, recall, dan F1-score, dengan hasil evaluasi yang mencapai akurasi 84% pada data uji.
 
 ## Dataset
