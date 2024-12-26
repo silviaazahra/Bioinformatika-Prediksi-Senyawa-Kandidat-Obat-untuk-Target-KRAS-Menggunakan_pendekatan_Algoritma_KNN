@@ -1,0 +1,1 @@
+# Bioinformatika-Prediksi-Senyawa-Kandidat-Obat-untuk-Target-KRAS-Menggunakan_pendekatan_Algoritma_KNN
