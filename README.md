@@ -1,4 +1,5 @@
 # Prediksi Senyawa Kandidat Obat untuk Target KRAS (Kirsten Rat Sarcoma Viral Oncogene) Menggunakan Pendekatan Algoritma K-Nearest Neighbor (KNN)
+# Kelompok 1 RB
 
 Proyek ini bertujuan untuk mengidentifikasi senyawa kandidat obat yang berpotensi menargetkan KRAS (Kirsten Rat Sarcoma Viral Oncogene) menggunakan pendekatan algoritma K-Nearest Neighbor (KNN). KRAS adalah onkogen yang sering bermutasi dan terkait dengan kanker paru-paru, kolorektal, dan pankreas. Penelitian ini menggunakan metode machine learning untuk meningkatkan efisiensi dalam penemuan obat.
 
