@@ -21,7 +21,7 @@ Kombinasi dari kedua dataset ini memberikan fitur kimia dan struktural yang komp
    - Normalisasi data numerik menggunakan Min-Max Scaling.
    - Transformasi kelas menjadi numerik.
    - Penggabungan fitur kimia dan fingerprint molekul.
-
+     
 2. *Klasifikasi KNN*:
    - Menentukan nilai optimal k melalui validasi silang.
    - Eksperimen dengan berbagai metrik jarak, termasuk Euclidean dan Manhattan.
