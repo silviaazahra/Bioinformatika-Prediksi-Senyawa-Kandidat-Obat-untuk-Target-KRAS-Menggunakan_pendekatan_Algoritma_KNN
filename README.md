@@ -40,7 +40,7 @@ Penelitian ini menggunakan dua dataset:
 - **Peningkatan Sensitivitas**: Penggunaan **SMOTE** meningkatkan sensitivitas model terhadap **senyawa aktif**.
 
 
-##Anggota Kelompok 1 RB
+## **Anggota Kelompok 1 RB**
 1. A Rafi Paringgom Iwari (121450039)  
 2. Silvia Azahrani (121450070)  
 3. Jelli Kurnilia (121450083)  
